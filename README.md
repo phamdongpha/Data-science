@@ -1,4 +1,4 @@
-# Data-science-Open-Food-Fact
+# Projet Data science : Open Food Fact
 
 Written in french by PHAM Dong Pha and MENARD June Camille
 
