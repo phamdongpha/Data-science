@@ -1,5 +1,7 @@
 # Data-science-Open-Food-Fact
 
+Written in french by PHAM Dong Pha and MENARD June Camille
+
 I) Problématique
 
 Le projet sera notamment dévolu à des travail autour des concepts liés aux transitions alimentaires sur la base de données Open Food Facts.
