@@ -1,6 +1,7 @@
 # Data-science-Open-Food-Fact
 
 I) Problématique
+
 Le projet sera notamment dévolu à des travail autour des concepts liés aux transitions alimentaires sur la base de données Open Food Facts.
 Voici donc quelques questions que l’on peut se poser sur ces données Open Food Facts :
 - Quels sont les discours des fournisseurs, selon leurs descriptions ? Les discours diffèrent-ils avec
