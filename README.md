@@ -19,6 +19,7 @@ distribution... ?
 Il y a d’autres questions que vous relèverez peut-être vous même mais l’intérêt pour vous est de réfléchir aux enjeux de cette analyse de données en terme de questions de recherche sur une base de données contenant presque 2 millions de références, alimentée via un dispositif de self-scanning, et dont la finalité est de fournir aux consommateurs, citoyens, mangeurs, des informations transparentes, ainsi que des formes d’évaluations qualitatives liées aux produits mais aussi à leurs impacts environnementaux.
 
 II) Base de données
+
 La base de données s’obtient sous différents formats, dont le format csv qui permet l’étude par CorText.Manager, via le site d’Open Food Facts : https://fr.openfoodfacts.org.
 
 En haut au milieu de cette page d’accueil, vous trouverez un champ « chercher un produit ». Je vous
